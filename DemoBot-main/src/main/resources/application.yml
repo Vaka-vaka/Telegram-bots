@@ -1,0 +1,4 @@
+bot:
+  token: token
+  username: username
+  start-secret: my-secret-key
